@@ -1,3 +1,8 @@
+# large file
+code/paperknowledge/paperentity/dde_paper_v4.json
+code/paperknowledge/paperentity/db_dde_corpus_query.json
+code/paperknowledge/paperentity/dde/*_sim*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
