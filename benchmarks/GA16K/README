@@ -1,0 +1,79 @@
+---------------------------------------------- 
+-- Geo-AceKG DATA --------- 2021 -------------
+----------------------------------------------
+
+------------------
+OUTLINE:
+1. Introduction
+2. Content
+3. Data Format
+4. Data Statistics
+5. How to Cite
+6. License
+7. Contact
+-------------------
+
+
+1. INTRODUCTION:
+
+This Geo-AceKG DATA consists of a collection of triplets (synset, relation_type, 
+triplet) extracted from WordNet 3.0 (http://wordnet.princeton.edu). This data set can 
+be seen as a 3-mode tensor depicting ternary relationships between synsets. 
+
+
+2. CONTENT:
+
+The data archive contains 6 files:
+  - README 3K
+  - train.txt 6,8M
+  - valid.txt 868K
+  - test.txt 870K
+
+The 3 files (train.txt, valid.txt and test.txt) contain the triplets (training, validation
+and test sets).
+
+
+3. DATA FORMAT
+
+All 3 files (train.txt, valid.txt and test.txt) contain one triplet per line, with 2 synset_ids 
+and relation type identifier in a tab separated format. The first element is the 
+synset_id of the left hand side of the relation triple, the third one is the 
+synset_id of the right hand side and the second element is the name of the type 
+of relations between them.
+
+
+4. DATA STATISTICS
+
+There are 16,363 synsets and 10 relation types among them. The training set contains 
+121,329 triplets, the validation set 15,167 and the test set 15,166.
+
+All triplets are unique and we made sure that all synsets appearing in
+the validation or test sets were occurring in the training set.
+
+5. HOW TO CITE
+
+When using this data, one should cite the original paper:
+  @article{bordes-mlj13,
+    title = {A Semantic Matching Energy Function for Learning with Multi-relational Data},
+    author = {Antoine Bordes and Xavier Glorot and Jason Weston and Yoshua Bengio},
+    journal={Machine Learning},
+    publisher={Springer},
+    year={2013},
+    note={to appear}
+  }
+
+One should also point at the project page with either the long URL:
+https://www.hds.utc.fr/everest/doku.php?id=en:smemlj12 , or the short
+one: http://goo.gl/bHWsK .
+
+6. LICENSE:
+
+WordNet data follows the attach license agreement.
+
+7. CONTACT
+
+For all remarks or questions please contact Antoine Bordes: antoine
+(dot) bordes (at) utc (dot) fr .
+
+
+
