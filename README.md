@@ -17,7 +17,7 @@ In order to better serve the data mining and knowledge discovery communities, GA
 |No.|Resource Name|Resource Type|Link|
 |:-:|:-:|:-:|:-:|
 |1|GAKG Datasets|data dump|[https://gakg.acemap.info/download](https://gakg.acemap.info/download)|
-|2|GA16K|Knowledge Representation Benchmark|[info](#krl), `/benchmarks/GA16K/`|
+|2|GA16K|Knowledge Representation Benchmark|[info](#krl), `/benchmarks/GA16K/`, [ftp](https://dataset.acemap.info/gakg/benchmarks.zip)|
 |3|GPCN|Geoscience Papers Citation Network|[info](#sn), [ftp](https://dataset.acemap.info/gakg/gpcn.tar.gz)|
 |4|GACN|Geoscience Authors Cooperation Network|[info](#sn), [ftp](https://dataset.acemap.info/gakg/gacn.tar.gz)|
 |5|GAKG SPARQL Endpoint|Query Endpoint|[GAKG Snorql](https://snorql.acemap.cn/)|
