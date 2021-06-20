@@ -3,6 +3,8 @@
 <h2>GAKG: A Multimodal Geoscience Academic Knowledge Graph 😈</h2>
 </div>
 
+`Due to the management of the relevant servers of the Shanghai Education Department, our website will be adjusted in the near future and will continue to serve on June 22, 2021`
+
 # Overview
 
 GAKG is a multimodal Geoscience Academic Knowledge Graph (GAKG) framework by fusing papers' illustrations, text, and bibliometric data. To our knowledge, GAKG is currently the largest and most comprehensive geoscience academic knowledge graph, consisting more than 68 million triples. Figure 1 shows the overview of GAKG. And if you want to explore the entire GAKG, view [https://gakg.acemap.info](https://gakg.acemap.info).
