@@ -3,6 +3,8 @@
 <h2>GAKG: A Multimodal Geoscience Academic Knowledge Graph 😈</h2>
 </div>
 
+Due to the management of the relevant servers of the Shanghai Education Department, our website will be adjusted in the near future and will continue to serve on **June 22, 2021**
+
 # Overview
 
 GAKG is a multimodal Geoscience Academic Knowledge Graph (GAKG) framework by fusing papers' illustrations, text, and bibliometric data. To our knowledge, GAKG is currently the largest and most comprehensive geoscience academic knowledge graph, consisting more than 68 million triples. Figure 1 shows the overview of GAKG. And if you want to explore the entire GAKG, view [https://gakg.acemap.info](https://gakg.acemap.info).
@@ -17,9 +19,9 @@ In order to better serve the data mining and knowledge discovery communities, GA
 |No.|Resource Name|Resource Type|Link|
 |:-:|:-:|:-:|:-:|
 |1|GAKG Datasets|data dump|[https://gakg.acemap.info/download](https://gakg.acemap.info/download)|
-|2|GA16K|Knowledge Representation Benchmark|[info](#krl), `/benchmarks/GA16K/`|
-|3|GPCN|Geoscience Papers Citation Network|[info](#sn), [https://gakg.acemap.info/socialnetwork](https://gakg.acemap.info/socialnetwork)|
-|4|GACN|Geoscience Authors Cooperation Network|[info](#sn), [https://gakg.acemap.info/socialnetwork](https://gakg.acemap.info/socialnetwork)|
+|2|GA16K|Knowledge Representation Benchmark|[info](#krl), `/benchmarks/GA16K/`, [ftp](https://dataset.acemap.info/gakg/benchmarks.zip)|
+|3|GPCN|Geoscience Papers Citation Network|[info](#sn), [ftp](https://dataset.acemap.info/gakg/gpcn.tar.gz)|
+|4|GACN|Geoscience Authors Cooperation Network|[info](#sn), [ftp](https://dataset.acemap.info/gakg/gacn.tar.gz)|
 |5|GAKG SPARQL Endpoint|Query Endpoint|[GAKG Snorql](https://snorql.acemap.cn/)|
 |6|Pipeline Supplements|models and codes|[Google Drive]()|
 
