@@ -4,6 +4,7 @@
 </div>
 
 Due to the management of the relevant servers of the Shanghai Education Department, our website will be adjusted in the near future and will continue to serve on **June 22, 2021**
+
 The SPARQL Endpoint during the network control protocol is **[gakg.acemap.info/sparql](gakg.acemap.info/sparql)**
 
 # Overview
