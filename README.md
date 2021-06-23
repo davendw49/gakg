@@ -25,7 +25,7 @@ In order to better serve the data mining and knowledge discovery communities, GA
 |3|GPCN|Geoscience Papers Citation Network|[info](#sn), [ftp](https://dataset.acemap.info/gakg/gpcn.tar.gz)|
 |4|GACN|Geoscience Authors Cooperation Network|[info](#sn), [ftp](https://dataset.acemap.info/gakg/gacn.tar.gz)|
 |5|GAKG SPARQL Endpoint|Query Endpoint|[GAKG Snorql](https://snorql.acemap.cn/)|
-|6|Pipeline Supplements|models and codes|[Google Drive]()|
+|6|Pipeline Supplements|models and codes|[Google Drive](https://drive.google.com/drive/folders/1Map0STLr3ScCtqRJTawg_Vlu6xXzt17U?usp=sharing)|
 
 
 <h2 id="sn">Community Detection</h2>
