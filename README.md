@@ -3,7 +3,7 @@
 <h2>GAKG: A Multimodal Geoscience Academic Knowledge Graph 😈</h2>
 </div>
 
-Due to the management of the relevant servers of the Shanghai Education Department, our website will be adjusted in the near future and will continue to serve on **June 22, 2021**
+Due to the management of the relevant servers of the Shanghai Education Department, our website will be adjusted in the near future and will continue to serve on **June 26, 2021**
 
 The SPARQL Endpoint during the network control protocol is **[https://gakg.acemap.info/sparql](https://gakg.acemap.info/sparql)**
 
