@@ -3,7 +3,7 @@
 <h2>GAKG: A Multimodal Geoscience Academic Knowledge Graph 😈</h2>
 </div>
 
-Due to the management of the relevant servers of the Shanghai Education Department, GAKG's SPARQL Endpoint is moved to **[https://gakg.acemap.info/sparql](https://gakg.acemap.info/sparql)**
+The **SPARQL Query Endpoint** of GAKG is [**gakg/sparql**](https://www.acekg.cn/sparql), with the **Graph IRI**: `https://www.acekg.cn/`.
 
 # Overview
 
@@ -18,7 +18,7 @@ In order to better serve the data mining and knowledge discovery communities, GA
 
 |No.|Resource Name|Resource Type|Link|
 |:-:|:-:|:-:|:-:|
-|1|GAKG Datasets|data dump|[info](https://gakg.acemap.info/download), [Google Drive](https://drive.google.com/file/d/19tWS8ouWhHK3aXtc-i6fLbgCAJru7FCk/view?usp=sharing), [ftp](https://dataset.acemap.info/gakg/gakg-dump-v1-06-21.tar.gz)|
+|1|GAKG Datasets|data dump|[info](https://gakg.acemap.info/#/download), [Google Drive](https://drive.google.com/file/d/19tWS8ouWhHK3aXtc-i6fLbgCAJru7FCk/view?usp=sharing), [ftp](https://dataset.acemap.info/gakg/gakg-dump-v1-06-21.tar.gz)|
 |2|GA16K|Knowledge Representation Benchmark|[info](#krl), `/benchmarks/GA16K/`, [ftp](https://dataset.acemap.info/gakg/benchmarks.zip)|
 |3|GPCN|Geoscience Papers Citation Network|[info](#sn), [ftp](https://dataset.acemap.info/gakg/gpcn.tar.gz)|
 |4|GACN|Geoscience Authors Cooperation Network|[info](#sn), [ftp](https://dataset.acemap.info/gakg/gacn.tar.gz)|
