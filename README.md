@@ -96,7 +96,7 @@ The pipeline of Paper Knowledge Extraction is in folder `/code/paperknowledge/`
 
 ## Citation
 
-We now have a [paper](#) under review on CIKM-Resource Track:
+Our [paper](#) has been accepted as a resource paper at CIKM-2021 :
 ```bibtex
 @inproceedings{GAKG,
     title = "GAKG: A Multimodal Geoscience Academic Knowledge Graph",
