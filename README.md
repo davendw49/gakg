@@ -98,9 +98,12 @@ The pipeline of Paper Knowledge Extraction is in folder `/code/paperknowledge/`
 
 Our [paper](#) has been accepted as a resource paper at CIKM-2021 :
 ```bibtex
-@inproceedings{GAKG,
-    title = "GAKG: A Multimodal Geoscience Academic Knowledge Graph",
-    author = "Cheng Deng, Yuting Jia, Chong Zhang, Jingyao Tang, Hui Xu, Luoyi Fu, Weinan Zhang, Haisong Zhang, Xinbing Wang, Chenghu Zhou",
+@inproceedings{deng2021gakg,
+  title={GAKG: A Multimodal Geoscience Academic Knowledge Graph},
+  author={Deng, Cheng and Jia, Yuting and Xu, Hui and Zhang, Chong and Tang, Jingyao and Fu, Luoyi and Zhang, Weinan and Zhang, Haisong and Wang, Xinbing and Zhou, Chenghu},
+  booktitle={Proceedings of the 30th ACM International Conference on Information \& Knowledge Management},
+  pages={4445--4454},
+  year={2021}
 }
 ```
 
