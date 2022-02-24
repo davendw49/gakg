@@ -107,9 +107,9 @@ Our [paper](#) has been accepted as a resource paper at CIKM-2021 :
 }
 ```
 
-## To-do
+<!-- ## To-do
 
-- [ ] ***Coming soon:*** Python Package gakg
+- [ ] ***Coming soon:*** Python Package gakg -->
 
 [1]: https://iopscience.iop.org/article/10.1088/1742-5468/2008/10/P10008/meta
 [2]: https://www.pnas.org/content/105/4/1118/
