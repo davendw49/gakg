@@ -1,5 +1,5 @@
 <div style="text-align:center">
-<img src="https://big-cheng.com/gakg/logo.png" alt="gakg-logo" width="600"/>
+<img src="https://www.cdeng.net/gakg/logo.png" alt="gakg-logo" width="600"/>
 <h2>GAKG: A Multimodal Geoscience Academic Knowledge Graph 😈</h2>
 </div>
 
@@ -10,7 +10,7 @@ The **SPARQL Query Endpoint** of GAKG is [**gakg/sparql**](https://www.acekg.cn/
 GAKG is a multimodal Geoscience Academic Knowledge Graph (GAKG) framework by fusing papers' illustrations, text, and bibliometric data. To our knowledge, GAKG is currently the largest and most comprehensive geoscience academic knowledge graph, consisting more than 68 million triples. Figure 1 shows the overview of GAKG. And if you want to explore the entire GAKG, view [https://gakg.acemap.info](https://gakg.acemap.info).
 
 <div style="text-align:center">
-<img src="https://big-cheng.com/gakg/overview.png" alt="gakg-logo" width="800"/>
+<img src="https://www.cdeng.net/gakg/overview.png" alt="gakg-logo" width="800"/>
 <h6>Figure 1. Overview of Multimodal GeoScience Academic Knowledge Graph (GAKG) </h6>
 </div>
 
@@ -96,7 +96,7 @@ The pipeline of Paper Knowledge Extraction is in folder `/code/paperknowledge/`
 
 ## Citation
 
-Our [paper](https://big-cheng.com/files/papers/GAKG.pdf) has been accepted as a resource paper at CIKM-2021 :
+Our [paper]([https://www.cdeng.net/files/papers/GAKG.pdf](https://dl.acm.org/doi/10.1145/3459637.3482003)) has been accepted as a resource paper at CIKM-2021 :
 ```bibtex
 @inproceedings{deng2021gakg,
   title={GAKG: A Multimodal Geoscience Academic Knowledge Graph},
